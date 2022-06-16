@@ -1,0 +1,8 @@
+ipywidgets==7.7.0
+jax==0.3.13
+tf-nightly==2.10.0.dev20220613
+tf-nightly-gpu==2.10.0.dev20220613
+telegram==0.0.1
+python-telegram-bot==20.0a0
+flax==0.5.1
+dalle-mini==0.1.0
